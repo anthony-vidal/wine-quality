@@ -18,10 +18,13 @@ evaluations. The class informs us whether the wine was qualified as good or not:
 - Class membership variable for the wine quality dataset
 - Class: good, notgood
 
-# Models used
-We'll use the following algorithms to model the wine quality data and predict whether a wine will be qualified as good or not :
+# Models used and accuracy 
 
-- Support Vector Machines 
-- Classification Trees 
-- Random Forests 
-- k-Nearest Neighbors 
+Model Accuracy (rounded down)
+- Random Forest 75%
+- Logistic Regression 75%
+- SVM Linear 72%
+- SVM RBF 72%
+- KNN 60%
+
+Overall, Random Forest remains the model with the best accuracy on the validation dataset. 
