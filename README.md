@@ -20,7 +20,7 @@ evaluations. The class informs us whether the wine was qualified as good or not:
 
 # Models used and accuracy 
 
-Model Accuracy (rounded down)
+Model Accuracy (rounded down):
 - Random Forest 75%
 - Logistic Regression 75%
 - SVM Linear 72%
