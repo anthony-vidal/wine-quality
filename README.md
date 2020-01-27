@@ -19,7 +19,7 @@ evaluations. The class informs us whether the wine was qualified as good or not:
 - Class: good, notgood
 
 # Models used
-We'll use the following algorithms to model the wine quality data and predict whether a wine will be qualified as good or not
+We'll use the following algorithms to model the wine quality data and predict whether a wine will be qualified as good or not :
 
 - Support Vector Machines 
 - Classification Trees 
