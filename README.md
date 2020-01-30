@@ -18,6 +18,8 @@ evaluations. The class informs us whether the wine was qualified as good or not:
 - Class membership variable for the wine quality dataset
 - Class: good, notgood
 
+Here we try to predict whether a new wine will be qualified as good or not according to the variables above
+
 # Models used and accuracy 
 
 Model Accuracy (rounded down):
